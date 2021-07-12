@@ -32,5 +32,5 @@
    - Create CSVStates Class to load the CSV Data
    - Use Iterator to load the data
    - Check with StateCensusAnalyser to ensure number of record matches
-   Test Cases : Same as above Test Cases of UC1   
+   - Test Cases : Same as above Test Cases of UC1   
    
